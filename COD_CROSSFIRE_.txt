@@ -1,0 +1,71 @@
+COD_CROSSFIRE    70 X 168
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxxxxxxxxxxxnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx           xnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx    xxxnnnnnxxxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx           xnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxx       xxxxx    xxxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxxxxxxxxxxxxxxxxxxxxnnnnnnnxxxxxxx        xnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx             x     xxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx                     xxxxxxx   xxxx        xxxxxxxxxxxxxn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxx           x     xnnnnnnnnnnnnnnnnxxxxxxnnnnnnnnnnnnnnnnnnnnnnnx                                                       xn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxxxx            xnnnnnnnnnnnnnnx    xnnnnnnnnnnnnnnnnnnnnnnnnx                                   BT                  xn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxx         xnnnnnnnnnnnnnxx   xxnnnnnnnnnnnnnnnnnnnnnnnnnx                                                       xn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx          xxxxnnnnnnnnnx    xnnnnnnnnnnnnnnnnnnnnnnnnnnnx      xxxxxxxxxxxxxx                                   xn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxx           xxxxnnnnx    xnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxxxxxxnnnnnnnnnnnnx                                   xn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx               xxxx    xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx    xxxxxx                xxxxxxxxxxn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx   xxx                xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxx                        xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxx     xxx                xxnnnnnnnnnnnnnnnnnnnnnxxxxxxnnnnnnnnnnnnnnnnnnnnnnnnx     xxx                xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxx         x    xx            xxxxnnnnnnnnnnnnnnnnx   x  xxxnnnnnnnnnnnnnnnnnnnnnx     xxx                xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx                  xxxx            xxxnnnnnnnnnnnnx   x     xnnnnnnnnnnnnnnnnnnnnnx     xxx                xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx      o   o                           xxxnnnnnnnnx   x     xnnnnnnnnnnnnnnnnnnnnnnx                        xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx                                          xxxnnnnx          xnnnnnnnnnnnnnnxxxxxxxxx                        xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx                             xx               xnxx          xnnnnnnnnnnnnnnnx                                xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxx                          o     xx              x           xnnnnnnnnnnnnnnnnx                                xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxx                             o       xxx          x           xnnnnnnnnnnnnnnnnx                                 xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnxxxnnnnnnnnnnnx                               o          xxx      x          xxnnnnnnnnnnnnnnnnx                                  xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnx  xxnnnnnnnnx      o                                            x           xnnnnnnnnnnnnnnnnnxxx                                xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnx    xxnnnnnx    o                xxx                                       xnnnnnnnnnnnnnnnnnnnnxxxxxxxxxxxxx                    xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnx      xxnxx                     x    x                                    xnnnnnnnnnnnnnnnnnnnnnnnnnnnnx                         xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnx        x                      x                           PPPPPPP       xnnnnnnnnnnnnnnnnnnnnnnnnnnnnx                          xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnx                                    xxx                     PPPPPPP      xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx    oooo                  xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnx  xx                                xnnnxx                   PPPPPPP      xxxxxnnnnnnnnnnnnnnnnnnnnnnnnx      o  oo                xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnx     xx                       xx    xnnnnnxx      xxx         PPPPPP1           xxxxxxxnnnnnnnnnnnnnnnnnx       o                   xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnx                              xx    xnnnnnnnnxxxxx       xx                             xxxxxxxxxxxnnnnnx         o                  xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnxx xxx                          xx    xnnnnnnnnnnnnnnxxx      xxx                        o o          xxxxx                             xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnxx     xxx                      xx    xnnnnnnnnnnnnnnnnnnxxx      x                      o o                                             xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnxx        xx                         xnnnnnnnnnnnnnnnnnnnnnnxxx                         o                                                xnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnx  xx                               xnnnnnnnnnnnnnnnnnnnnnnnnnnnx        xxx                                                            xnnnnnnnnnnn
+nxxxxxxxxnnnnnnnnnnx     xx      x                     xxnnnnnnnnnnnnnnnnnnnnnnnnnnxx       xnnnxxx                                                        xnnnnnnnnnnnn
+nx       xxxxnnnnnx          xx x                        xxxxnnnnnnnnnnnnnnnnnnnnnxx       xnnnnnnnxxx                ooo                                 xnnnnnnnnnnnnn
+nx           xxxxx             xx                 x          xxxxnnnnnnnnnnnnnnnnxx       xnnnnnnnnnnnxxxx                                               xnnnnnnnnnnnnnn
+nnx               xx                               xx            xxxxnnnnnnnnxxxxx      xxnnnnnnnnnnnnnnx                                               xnnnnnnnnnnnnnnn
+nnx                 xxx                              xx              xxxnnnxx        xxxnnnnnnnnnnnnnnnx       xxxxx                                    xnnnnnnnnnnnnnnn
+nnnx                   x                  oo          xxxxx          x  xxx         xxnnnnnnnnnnnnnnnnx       x          x                       x     xnnnnnnnnnnnnnnnn
+nnnx                  x                 ooo          xnnnnnxxxx      x             xnnnnnnnnnnnnnnnnnx      xxx   xxxx  x  xxx                  xxxxxxxxxxxxxxxnnnnnnnnn
+nnnx                                   o           xxnnnnnnnnnnxxxx x             xxxnnnnnnnnnnnnnnnx      xxx    xxxx x      xx                x              xxnnnnnnn
+nnnx                                              xnnnnnnnnnnnnnnnxxx            x   xnnnnnnnnnnnnnx      xx  xx    xxx             xx          x                xxxxnnn
+nnnnxxxx            x                            xnnnnnnnnnnnnnnnnnx            x   xnnnnnnnnnnnnnx      xx     xxxxnnnx              xxxxx              o o o      xnnn
+nnnnnx             x                      xxx   xnnnnnnnnnnnnnnnnnx     o      x   xnnnnnnnnnnnnx       xx        xxnnnnxxx        xxx    x                o        xnnn
+nnnnnnx         xxx                          xxxnnnnnnnnnnnnnnnnnx                xnnnnnnnnnnnnx                xxnnnnnnnnx       xxnxx   x                        xnnnn
+nnnnnnxxxxxxx                           xx   xxnnnnnnnnnnnnnnnnnx                xxnnnnnnnnnnnx                 xxnnnnnnnnnxxx  xxnnnnnxxxx                        xnnnn
+nnnnnnx                                   xxxnnnnnnnnnnnnnnnnnnxxxxxxxx            xxxxxxnnnnx                  xxnnnnnnnnnnnnxxnnnnnnnnnnnnxxx                   xnnnnn
+nnnnnnnx                                   xnnnnnnnnnnnnnnnnnnnnnnnnnnnxxx              xxxxx      xx          xxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxx                xnnnnnn
+nnnnnnnx                                 xxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxx                     x        xxxxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxx                xnnnnnnn
+nnnnnnnx                                xxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxxx    xxx        x        xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxx                xnnnnnnnn
+nnnnnnnnx                             xxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxxx         x        xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxx               xnnnnnnnnn
+nnnnnnnnnx                           xxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxx     xx        xxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxx              xxnnnnnnnnnn
+nnnnnnnnnx     C                      xxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxxxx        xxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxx              xnnnnnnnnnnnn
+nnnnnnnnnnx                   xxxxx    xxxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxx         xxxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnx                 xnnnnnnnnnnnnn
+nnnnnnnnnnx             xxxxxxnnnnnx      xxxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxx       o   xxxxnnnnnnnnnnnnnnnnnnnnnnnnnnxx             xxnnnnnnnnnnnnnn
+nnnnnnnnnnxx      xxxxxxnnnnnnnnnnnnx        xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxx             xxnnnnnnnnnnnnnnnnnnnnnnnxx             xxnnnnnnnnnnnnnnn
+nnnnnnnnnnnnx  xxxnnnnnnnnnnnnnnnnnnnx    xxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxxx          xxnnnnnnnnnnnnnnnnnnnnxx             xxnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnxxxnnnnnnnnnnnnnnnnnnnnxxxxxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxx          xxxxxxnnnnnnnnnnnnnxx            xxnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxx             xxxnnnnnnnnnxx            xxnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxx            xxnnnnnnxx            xxnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxxx         xxxnnxx            xxnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxx         xx            xxnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxx                  xxnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxx              xxnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxx          xxxnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxxxxx    xxnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxx xxnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn

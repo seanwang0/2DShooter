@@ -1,0 +1,40 @@
+CS_GO_CACHE    39 x 105
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnx             x                  xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnx  xx         x                  xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnx 1PPPPPP     xx  xxxxxxxxxx  xxxxxxxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnx PPPPPPx          xo    x           xxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnx PPPPPxx          x     x            xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnx PPPPPxx          x     x            xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnx PPPooxx                xxxxxxx   xxxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnxxxxxxxxxxx                  x        xx        xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnx                    xoooo   x        xx        xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnx                            xoo   xxxxx        xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nxxxxxxxxxxxx                  xxxxxxxxxxxoo   xxxxx        xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nx         xx    oxxxxxxxxo    xnnnnnnnnnx     xxxxx        xnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nxo        xx    oxnnnnnnx     xnnnnnnnnnx     xxxxx        xxxxxxxxxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nxo   C    xx    oxnnnnnnx     xnnnnnnnnnx     xxxxx                 xxxxxxxxxxxnnnnnnnnnnnnnnnnnnnnnnnnn
+nxo        xx     xnnnnnnx     xnnnnnnnnxxxx  xxxxxx                   x       xnnnnnnnnnnnnnnnnnnnnnnnnn
+nx         xx     xnnnnnnx    oxnnnnnnnnx  x                           x       xnnnnnnnnnnnnnnnnnnnnnnnnn
+nx         xxx    xxxnnnnx    oxxxxxxxxxx  xxxxxxxxx                           xnnnnnnnnnnnnnnnnnnnnnnnnn
+nxx      xxx        xxxxxx     x              xxxxxxxxxxxxxxxxxx  xxx          xxxxxxxxxxxxxxxxxxxxxxxxxn
+nx         x             x                    x          xxx        x              xxxxxxxx            xn
+nx         x        xx   x                               xxx                       xxxxxxxx            xn
+nx  o               xx   x                    x          xxx        x              xxxxxxxx            xn
+nx                  xx           ooxxxxxxxxx  x          xxx        x                           B      xn
+nxxx       x        xxxxxx  oo   ooxxxxxxxxx  x                     x                                  xn
+nxxxo      x             xxxxxxxxxxxxxxxxxxx xxxxxxxx  xxxxxxxxxxxxxx                           T      xn
+nxxxxxxxxxxxxx           x  oo               xx          xnnnnnnnnnnxxxxxxxxxxx                        xn
+nnnnnnnnnnnnnxx  xxxxx   x               xxxxxx          xnnnnnnnnnnnnnnnnnnnnx                        xn
+nnnnnnnnnnnnnx       x   xxxxx   xxxxxxx  xxnnx     xxxxxxnnnnxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxn
+nnnnnnnnnnnnnxo      x   xxxo        x     xnnxx    xxxxxxxxxxx       xxx           xnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnxo      x      o              xnnnx                                  xxxnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnxo      xxxxoooo        x     xxxxx                                  xxxnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnx                       x              xxxxxxxxxxx                   xxxnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnx       xxxx                           xnnnnnnnnnx                   xxxnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnxxxxxxxxxnnx  2xxoPPPPxxxxxxxx  xxxx   xnnnnnnnnnx                     xnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnx  PPPPPPPooPxnx            xnnnnnnnnnx   xxxxxxxxxxxxxxxxxxxnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnx  PPooPPPPPPxnx      xx    xnnnnnnnnnxxxxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnxxxxxxxxxxxxxxnxxxxxxxxxxxxxxnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn

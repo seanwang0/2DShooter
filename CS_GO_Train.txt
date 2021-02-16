@@ -1,0 +1,47 @@
+CS_GO_TRAIN  46 x 107
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxx        xxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    xxxxxxxxx                                       xxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                    ooooooo              xxxxxxxxxxxxxn
+nxxx                                             xxxxxxxxxx    xxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxn
+nxxx         B T                            xxxxxxxxxxxxxxx    xxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxn
+nxxx                 xxxxxxxxxxx            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxx       xxxxxxxxxxxx            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  oxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxx      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxx      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxx      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxx    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     oooxxxxxxx        xxxxxxxxxx            xxxxxxxx    xxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           o                                      xx                xxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              xxxxxxxxxxxx    xxxxxxxxxxxxx                         xxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                              xxxxxxxxxxxxxxxxxxx    xxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxx     xx                                  xxxxxxxxxxxxxxxxxx    xxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxx    xxx        xxxooooooooo              xxxxxxxxxxxxxxxxxx    xxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxx    xxx                                  xxxxxxxxxxxxxxxxxx    xxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxx     xx       o           1PPPPPPPPP    xxxxxxxxxxxxxxxxxxx    xxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxx     xx            ooo    PPPPoooPPP                           xxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxo  xxx                    PPPPPPP            xxxxxxxxxxxx     xxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxx    xx    oo                                 xxxxxxxxxxxx     xxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxx    xxx  oxxxxxxxxxxxxxxxxoo                                  xxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxx        xxxxxxxxxxxxxxxxoo      x  xxxxxxxxxxxxxxxxxxxxxxx   xxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxx  xxxxxxxxxxxxxxxxxxxxxx      ooxxxxxxxxxxxxxxxxxxxxxxxxxx    xxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxx        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                xxxxxxxxxxxxxxxxxx    xxxn
+nxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxx    xxxn
+nxxxxxxxxxxxxxxxxxxxxxxxx   oo    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxo  xxxxxxxxxxxxxxxxx     xxxn
+nxxxxxxxxxxxxxxxxxxxxxxxx   oo    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxx     xxxn
+nxxxxxxxxxxxxxxxxxxxxxxxx   oo                                                                oo       xxxn
+nxxxxxxxxxxxxxxxxxxxxxxxx   oo     xxxxxxxxxx    xxxxxxxxxxxx           xxxxxxxxxxxx    xx             xxxn
+nxxxxxxxxxxxxxxxxxxxxxxxx          xxxxxxxxxx    xxxxxxxxxxxx            xxxxxxxxxxx    xx       xxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxx          xxxxxxxxxx                                           oo       xxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxx       2PPPPoooPPP   oxxooxxxxxxx          oo             xxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxx       PPPoooPPPPP    xxooxxxxxxx          oo     C       xxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxx                                           oo          oooxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxx                     xxxxxxxxxxxx          xx             xxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxx       o                                   xxxxxxxxxxxx   xxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    xxxxxxxxx      o                                     xxxxxxxxxxx  xxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                                                      xxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn

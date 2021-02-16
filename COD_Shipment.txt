@@ -1,0 +1,55 @@
+MODERN_WARFARE_SHIPMENT    53 X 101
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx                                   xxxxxxxxxxxxxxxxxxxx                                        xxn
+nxx             oo                    xxxnnnnnnnnnnnnnnnxx                        ooo             xxn
+nxx              oo                   xxnnnnnnnnnnnnnnnnxx        o                ooo            xxn
+nxx             o                     xxxxxxxxxxxxxxxxxxxx         ooo              ooo           xxn
+nxx        B  T                       xxxxxxxxxxxxxxxxxxxx                                        xxn
+nxx  ooo                              xxnnnnnnnnnnnnnnnnxx                                        xxn
+nxx   ooo                             xxxxxxxxxxxxxxxxxxxx                                        xxn
+nxx                                   xxxxxxxxxxxxxxxxxxxx                                        xxn
+nxx                                                                                ooo            xxn
+nxx                                                                                 oo            xxn
+nxx                                                                                               xxn
+nxx                                                                                               xxn
+nxx                            o                                     o                            xxn
+nxx                            o                                     o                            xxn
+nxx                            xxxxxxxxxxxxxxx       oxxxxxxxxxxxxxxxx                            xxn
+nxx                            xxnnnnnxxnnnnxx        xxnnnnnxxnnnnnxx                            xxn
+nxx                            xxnnnnnxxnnnnxx        xxnnnnnxxnnnnnxx                            xxn
+nxx                            xxnnnnnxxnnnnxx        xxnnnnnxxnnnnnxx                            xxn
+nxx                            xxnnnnnxxnnnnxx        xxnnnnnxxnnnnnxx                            xxn
+nxx     xxxxxxxx               xxnnnnnxxnnnnxx        xxnnnnnxxnnnnnxx                            xxn
+nxx    xxxnnnnxxxxxxxxxx       xxnnnnnxxnnnnxx        xxnnnnnxxnnnnnxx        xxxxxxxxxxxxxxxxx   xxn
+nxx   xxxnnnnnxxxnnnnnxx       xxnnnnnxxnnnnxx        xxnnnnnxxnnnnnxx        xxxnnnnnxxxxxnnxx   xxn
+nxx  xxxnnnnnxxxxnnnnnxx       xxxxxxxxxxxxxxx        xxxxxxxxxxxxxxxx        xxnnnnnxxxxnnnnxx   xxn
+nxx  xxnnnnnxxxxxnnnnnxx                      1PPPPPPP                        xxnnnnnxxxxnnnnnxx  xxn
+nxxxxxnnnnnxxx xxnnnnnxx                      PPPPPPPP                        xxnnnnnxxxxxnnnnxx  xxn
+nxxxxnnnnnxxx  xxnnnnnxx                      PPPPPPPP                        xxnnnnnxxxxxnnnnxxx xxn
+nxxxxnnnnxxx   xxnnnnnxx                      PPPPPPPP  o                     xxnnnnnxx xxnnnnxxx xxn
+nxx xxxxxxx    xxnnnnnxx       xxxxxxxxxxxxxxx        xxxxxxxxxxxxxxxx        xxnnnnnxx xxxnnnnxxxxxn
+nxx            xxxxxxxxx       xxnnnnnxxnnnnxx        xxnnnnnxxnnnnnxx        xxnnnnnxx  xxnnxxxxxxxn
+nxx                            xxnnnnnxxnnnnxx        xxnnnnnxxnnnnnxx        xxxxxxxxx  xxxxxxxxxxxn
+nxx                            xxnnnnnxxnnnnxx        xxnnnnnxxnnnnnxx                            xxn
+nxx                            xxnnnnnxxnnnnxx        xxnnnnnxxnnnnnxx                            xxn
+nxx                            xxnnnnnxxnnnnxx        xxnnnnnxxnnnnnxx                            xxn
+nxx                            xxnnnnnxxnnnnxx        xxnnnnnxxnnnnnxx                            xxn
+nxx                            xxnnnnnxxnnnnxx        xxnnnnnxxnnnnnxx                            xxn
+nxx                            xxxxxxxxxxxxxxx        xxxxxxxxxxxxxxxx                            xxn
+nxx                            o                                     o                            xxn
+nxx                                                                                               xxn
+nxx                                                                                               xxn
+nxx                                                                                      oo       xxn
+nxx                                                                                     oo        xxn
+nxx                                                                                       o       xxn
+nxx                                                                                               xxn
+nxx     o                              xxxxxxxxxxxxxxxxxxxx                                       xxn
+nxx     o                              xxnnnnnnnnnnnnnnnxxx                                       xxn
+nxx     oo                             xxnnnnnnnnnnnnnnnxxx                 ooo                   xxn
+nxx    oooo       o o                  xxxxxxxxxxxxxxxxxxxx                ooo                    xxn
+nxx     oooo      oo                   xxnnnxxxxnxxnnnnxxxx               ooo                     xxn
+nxx      ooo                           xxnnnnnnnnnnnnnnnxxx                           C           xxn
+nxx                                    xxxxxxxxxxxxxxxxxxxx                                       xxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn

@@ -1,0 +1,61 @@
+ANUBIS 60 x 89
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxx               C            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxx                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxx           ooo                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxx                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxx        ooo                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxx                    xxxxxx    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxx           ooo    xxxxxxxx     xxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxx                   xxxxxxxx    xxxxxxxxxxx    xxxx         xxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxx                   xxxxxxxx     xxxxxxxx       xxx 1PPPPP  xxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxx        xxx             PPPPPP  xxxxxxn
+nxxxxxxxxxxxxxxxxxxx                      xxxxxxxx                x       PPPPPP  xxxxxxn
+nxxxxxxxxxxxxxxx                         xxxxxxxxx          o             PPPPPP      xxn
+nxxxxxxxxxxxxxxx             xxxxxxxx     xxxxxxxxxxxxxxxxxxx   o                     xxn
+nxxxxxxxxxxxxxxx      xxx     xxxxxxxx    xxxxxxxxxxxxxxxxxxx                    x    xxn
+nxxxxxxxxxxxxxxx    xxxx      xxxxxxxx       xxx      xxxxxxx                   xx    xxn
+nxxxxxxxxxxxxxx      xxx     xxxxxxxxx                xxxxxxx                         xxn
+nxxxxxxxxxxxxxx            xxxxxxxxxxx               xxxxxxxx   o            xxx      xxn
+nxxxxxxxxxxxxx       xxxxxxxxxxxxxxxxx    xxxxxx     x      x             xxxxxxx    xxxn
+nxxxxxxxxxxxxx      xxxxxxxxxxxxxxxxxx    xxxxx                           xxxxxx      xxn
+nxxxxxxxxxxxxx      xxxxxxxxxxxxxx        xxxx                         x xxxxxxx      xxn
+nxxxxxxxxxxxxx      x                     xxxxx       xx    xxxxxxxxxxxxxxxxxxxx      xxn
+nxxxxxxxxxxxxx      xx                    xxxxx       xxxxxxxxxxxxxxxxxxxxxxx         xxn
+nxxxxxxxxxxxxx            xxxxxxxx        xxxx       xxxxxxxxxxxxxxxxxxxxxxxxx        xxn
+nxxxxxxxxxxxxxx                 xxxxxxxxxxx          xxxxxxxx                        xxxn
+nxxxxxxxxxxxx     2PPPP         xxxxxxxx             xxxxxxxx                      xxxxxn
+nxxx      xxx     PPPPP         xxxxxxxx             xxxxxxxx            xxxxxx xxxxxxxxn
+nxxx              PPPPP         xxxxxxxxx    xxx      xxxxxxx            xxxxxxxxxxxxxxxn
+nxxx                            xxxxxxxx              xxxxxxx                  xxxxxxxxxn
+nxxx      xxx       xx    xxxxxxxxxxxxx               xxxxxxx          xxx     xxxxxxxxxn
+nxxx      xxx             x     xxxxxxxx    xxxxxxxxxxxxxxxxx          xxx      xxxxxxxxn
+nxxx     xxxxxx                 xxx         xxx       xxxxxxx            o      xxxxxxxxn
+nxxx      xxxxx           x      xx                                      o      xxxxxxxxn
+nxxx      xxxxxxxxxxxxxxxxx           oo                 o               o     xxxxxxxxxn
+nxxx                  xxxxxxxxxxxxxxxxxx    o                   xxxxxxxxxx      xxxxxxxxn
+nxxx                  xxxxxxxxxxxxx          xxxxxxxxxxxxxxxx   xxxxxxxxxxx    xxxxxxxxxn
+nxxx                   xxxxxxxxxx             xxxxxxxxxxxxxxx   xxxxxxxxxxx    xxxxxxxxxn
+nxxxxxxxxxx            xxxxxxxxxx      oo       xxxxxxxxxxxxx     xxxxxxxxxx   xxxxxxxxxn
+nxxxxxxxxxx            xxxxxxxxxx                     xxxxxxxxx                xxxxxxxxxn
+nxxxxxxxxxxx            xxxxxx           oo           xxxxxxxxx                xxxxxxxxxn
+nxxxxxxxxxxxxx            x                                                  xxxxxxxxxxxn
+nxxxxxxxxxxxxxxx                 xxxxxxxxxxxxxxx                              xxxxxxxxxxn
+nxxxxxxxxxxxxxxxx             xxxxxxxxxxxxxxxxxxx                 xxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxx          xxxxxxxxxxxxxxxxxxxxxxxx          xxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxx          xxxxxxxxxxxxxxxxxxxxxxxxxx      xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxx          xxxxxxxxxxxxxxxxxxxxxxxxxxxx      xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxx         xxx xxxxxxxxxxxxxxxxxxxxxxxxxx      xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxx       xx     xxxxxxxxxxxxxxxxxxxxxxx       xxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxx              xxxxxxxxxx        xxxx       xxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxx            xxxxxxxxxx                   xxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxx          xxx                         xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxx                        ooo         xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxx    oo                 oooo      xxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxx           B T                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn

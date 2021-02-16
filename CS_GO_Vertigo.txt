@@ -1,0 +1,57 @@
+VERTIGO  56 x 105
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxx                                   xxxxxx      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx                                    xxxxxx      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx   xxxxx            x               xxx         xx       x         x  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx   xxxxx                            xxx                                   xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx                                    xxx                                   xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx           2PPPPP                    x         xxxx               C       xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx           PPPPPP                              oooo                       xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx           PPPPPP                              oooo                       xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx                                               oooo                       xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx                                               xxxx                       xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx   xx              xxx                xxxxxxxxxxxxx                       xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx   xxxxxx       xxxxxxooooooooooooooooxxxxxxxxxxxxx                 x     xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx   xxxxxx        x xxx                         xxxx                 x     xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx                                                xxxx               xx      xxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx                    xx                           xxxxx       xxxxxxxx      xxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx                    oo                                              o      xxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxx                    oo                                              o         xx                xxxxxn
+nxxx                  ooo                                              o                           xxxxxn
+nxxxxx              xxxxx                                              x         x                 xxxxxn
+nxxxxxx            xxxxxx                                           xxxxx      xxxx                xxxxxn
+nxxxxxx            xxxxxx               xxoooooooooooxxxxxxxx       x          xxxxx               xxxxxn
+nxxxxxxx           xxxxxx               xx           xxxxxxxx       x          xxxxxoooooooooo       xxxn
+nxxxxxxx           xxxxxx                            xxxxxxxx       xx    xxxxxxxxx                  xxxn
+nxxxxxx            xxxxxx                            xxxxxxxx                 xxxxx                  xxxn
+nxxxxxx            xxxxxx                            xxxxxxxx                                        xxxn
+nxxxxxx            xxxxxx                            xxxxxxxx                                         xxn
+nxxxxxxx           xxxxxxx             xx            xxxxxxxx                                        xxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxoooooooooooooxx            xxxxxxxx                 xxxxx                   xxn
+nxxxxxxxxxxxxxxxxxxxxxxxx                            xxxxxxxx             xxxxxxxxx                   xxn
+nxxxxxxxxxxxxxxxxxxxxxxxx                            xxxxxxxx             xxxxxxxx                   xxxn
+nxxxxxxxxxxxxxxxxxxxxxxxx                            xxxxxxxxoooooooooooooxxxxxxxx                  xxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxx       xxxxxxxxxxxx   ooooooxxxxxxxx                            1PPPPP      xxxn
+nxxxxxx                         xxxxxxxxxxx              xx                              PPPPPP      xxxn
+nxxxxx                               xxxxxx              xx                              PPPPPP      xxxn
+nxxxxxx                              xxxxxxxxxx          xx   x                                      xxxn
+nxxxxxxx                              xxxxxxxxx          xx   xxxxxooooooooooxxxxxxxx               xxxxn
+nxxxxx          ooooooooo             xxxxxxxxxx         x    x   x          xxxxxxxx                xxxn
+nxxxxx                               xxxxxxxxxxxxxxxxxxxx     x   x          xxxxxxxx                xxxn
+nxxxxx                               xxxxxxxxxxxxxxxxxxxxx    o   o          xxxxxxxx                xxxn
+nxxxxxxx                              xxxxxxxxxxxxxxxxxxxx    o   o          xxxxxxxx               xxxxn
+nxxxxxx                                                  x    x   x                                  xxxn
+nxxxxx              o                                    xx       x                                  xxxn
+nxxxxx              o                                    xx       x                                  xxxn
+nxxxxx              o                                    xx                                          xxxn
+nxxxxxxx            o                      B T           xxxxxxx                                     xxxn
+nxxxxx              o                                    xxxxx                                       xxxn
+nxxxxx              o                                    xxxxx                                        xxn
+nxxxxx                                                   xxxxx                                        xxn
+nxxxxx                                                xxxxxxxx                                        xxn
+nxxxxxxxxx       xx        xx       xx        xx      xxxxxxxxxx      xx       xx                  xxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn

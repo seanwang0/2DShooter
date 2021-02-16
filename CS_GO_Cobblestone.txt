@@ -1,0 +1,52 @@
+Cobblestone   50 x 89
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxx      xxxxxxxxx         o     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxx                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxx                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxx                           B T    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxx                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxx        ooo              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxx         ooo             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxx       ooooo              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxx          ooooo      xxoooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxx      oooooo      xxxoooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxx                  xxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxx                   x     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxx   oo                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxx                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxx             oo              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxx              oo             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxx    o                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxx    oo                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxx    ooo                     xxxxx           xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxx            ooo                         o           xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxx             xxxx   xo  x                           xxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxx              xxx     oooxxxx                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxx      oxxxxxxxx          xxxxxxxxxxxxxxxxxx           xxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxx  ooxxxxxxxx           xxxxxxxxxxxxxxxxx          xxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxx      xxxxxxxxxoooo  oxxxxxxxxxxxxxxxxxx           xxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxx     xxxxxxxxxx        xxxxxxxxxxxxxxxxxxxxx         x       x  x         xxxxxn
+nxxxxxxx      xxxxxxxxxx         xxxxxxxxxxxxxxxxxxxx                               xxxxn
+nxxxxxxx     xxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxx           ooo                 xxxxn
+nxxxxxx      xxxxxxxxx           xxxxxxxxxxxxxxxxxx        xxxooo                   xxxxn
+nxxxxx          xxxxxx           xxxxxxxxxxxxxxx                                   xxxxxn
+nxxxxx                            xxxxxxxxxxxxx    o                  2PPP         xxxxxn
+nxxxxxxxxxxxxxx         oo        xxx xxxxxxxxx    oo                 PPPP          xxxxn
+nxxxxxxxxxxxxxx       oooo        xx           o   ooo                oooo           xxxn
+nxxxxxxxxxxxxxx                               ooo                     PPPP           xxxn
+nxxxxxxxxxxxxxx                                o    xx                             xxxxxn
+nxxxxxxxxxxxxxx           1PPPoP                    xxxxxxxxxxxxxx                xxxxxxn
+nxxxxxxxxxxxxxx           PPPPoP                   xxxxxxxxxxxxxxxx               xxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxx                     xxxxxxxxxxxxxxxxxxxxxxxxxxx          xxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxx            o   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxx                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxx     C     xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxx           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+

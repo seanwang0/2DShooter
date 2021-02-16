@@ -1,0 +1,47 @@
+HAVEN    46 x 90
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    C     xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                         xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   xxxxxxxxx                         xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   xxxxxxxxx                         xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxx    xx   xxxxxxxx
+xxxxxxxxxxxxxxxxxx              xxxxxxxxxxx     xxxxxxxxxxxxxxx   xxxxxxx    xx   xxxxxxxx
+xxxxxxxxxxxxxxxxxx              xxxxxxxxxxx xxx xxxxxxxxxxxxxxx              xx       xxxx
+xpppppppppppppp      xxxxxx     xxxxxxxxx          xxxxxxxxxxxx   xxxxxxx    xx       xxxx
+xpppppppppppppp      xxxxxx     xxxxxxx             xxxxxxxxxxx   xxxxxxx    pppppppppppxx
+xpppppppppppppp      xxxxxx                           xxxxxxxxx   xxx        pppppppppppxx
+xppppppxxxxxxxx      xxxxxx              pppppppppp   x           xxx        ppxxxxxxpppxx
+xpppppppppppxxx      xxxxxxx   xxxxxxx   pxxxxxxxxp               xxx      xxxxxxxxxxpppxx
+xpppppppppppxxx      xxxxxx         xx   pppxxxxppp   x          xxxx      xxxxxxpppppppxx
+xxx                xxxxxxxx         xx   pppppppppp   xxxxxxx    xxxx        pppppppppppxx
+xxx                xxxxxxxxxxx   xxxxx                xxxxxxxxxxxxxxx                   xx
+xxx                                 xx                x           xxxxxx       xxx      xx
+xxx                                 xxxxxxx   xxxxxxxxx                        xxx    xxxx
+xxx         xx      xxxxxxxx      xxxx          xxxxxxx                  x       x    xxxx
+xxxxxxx    xxxxxxxxxxxxxxxxx        xx          xxxxxxxxx  xxxxxxxxxxxxxxx       x    xxxx
+xxxxxxx    xxxxxxxxxxxxxxxxxxxxx xxxxxxxxx      xxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxx      xx
+xxxxxxx    xxxxxxxxxxxxxxxxx        xxxxxx    xxxxxxxxxxx  xxxxxxxxxxxxxxxxxxx          xx
+xxxxxxx    xxxxxxxxxxxxxxxxx        xxxxxx    xxxxxxxxxxx  xxxx   xxxxxxx               xx
+xxxxxxxx       xxxxxxxxxxxxx                        xx       xx   xx             xx     xx
+xxxxxxxx       xxxxxxxxxxxxx                        xxxx                         xxxxxxxxx
+xxxxxxxx       xxxxxxxxxxxxx                        xxxx                      xxxxxxxxxxxx
+xxxxxxxx   xxxxxxxxxxxxxxxxx                        xx       xx          xxxxxxxxxxxxxxxxx
+xxxxx      xxxxxxxxxxxxxxxxx        xxxxxxx    xxxxxxx       xx     xxxxxxxxxxxxxxxxxxxxxx
+xxxxx           xx       xxx          x             xxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx                    xxx          xxxxxxxxxxxx  xx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx           xx       xxxxxxx      xxxxxxxxxxxx           xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx           xx       xxxxxxx          xxxxxx             xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx                                           xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx                   xxxxxxxxxxx                xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         B          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         T            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
