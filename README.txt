@@ -1,8 +1,7 @@
-# 2DShooter
-2-D top down shooter matches playable on the user terminal - C++
+Oldschool 2d top-down shooter that uses various maps from FPS's such as COD and Valorant. 
 
 *IMPORTANT* Program requires ncurses library *IMPORTANT*
-How to compile with ncurses: g++ Simulator.cpp -lncurses -std=c++11
+How to compile with ncurses: g++ 2DShooter.cpp -lncurses -std=c++11
 
 Terminal input takes the map file you decide to use as its only argument.
 Example : ./a.out COD_Shipment.txt
